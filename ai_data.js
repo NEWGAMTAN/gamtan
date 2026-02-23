@@ -1,22 +1,20 @@
 var aiDataAll = {
-    "version": "202602231906",
-    "updated_at": "2026-02-23 19:09:30",
+    "version": "202602231938",
+    "updated_at": "2026-02-23 19:42:17",
     "data": {
         "편안함_이지웨어": {
             "pairs": [
                 {
-                    "main_copy": "매일의 편안함\n프리미엄 이지웨어",
+                    "main_copy": "캡 내장형 골지 원단\n견고한 편안함의 소장 가치",
                     "main_copies": [
-                        "매일의 편안함\n프리미엄 이지웨어",
-                        "흐트러짐 없는 품격\n캡 내장형 골지 원단",
-                        "우아한 일상의 시작\n고급스러운 매끈함"
+                        "캡 내장형 골지 원단\n견고한 편안함의 소장 가치",
+                        "잦은 세탁도 문제없음\n안정적인 지지의 매끈함",
+                        "외출복으로 손색없음\n자신감을 주는 완벽한 핏"
                     ],
                     "hashtags": [
                         "#감탄브라",
-                        "#프리미엄언더웨어",
                         "#이지웨어",
-                        "#캡내장형골지원단",
-                        "#매끈한핏"
+                        "#프리미엄언더웨어"
                     ],
                     "image": "ai_comfort_easywear_1.jpg",
                     "product_codes": [
@@ -24,27 +22,25 @@ var aiDataAll = {
                         "2086138"
                     ],
                     "product_number_text": "2086140 2086138",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(185, 186, 189, 0.9), rgba(185, 186, 189, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#B9BABD",
+                    "top_bg_hex_vision": "#B9BABD",
+                    "top_bg_lum": 0.4911,
+                    "top_bg_sat": 0.0212,
+                    "is_dark": false
                 },
                 {
-                    "main_copy": "캡 내장형 골지 원단\n편안함의 새로운 기준",
+                    "main_copy": "편안함의 진수\n마음까지 안심 이지웨어",
                     "main_copies": [
-                        "캡 내장형 골지 원단\n편안함의 새로운 기준",
-                        "세탁에도 매끈한 핏\n필링 없는 자신감",
-                        "외출복도 되는 이지웨어\n소장 가치 있는 선택"
+                        "편안함의 진수\n마음까지 안심 이지웨어",
+                        "보풀 없이 매끈함\n소장 가치 이지웨어",
+                        "견고한 내구성\n자신감 있는 선택, 이지웨어"
                     ],
                     "hashtags": [
                         "#감탄브라",
-                        "#프리미엄언더웨어",
-                        "#편안함"
+                        "#이지웨어",
+                        "#자신감있는일상"
                     ],
                     "image": "ai_comfort_easywear_2.jpg",
                     "product_codes": [
@@ -52,25 +48,24 @@ var aiDataAll = {
                         "2086138"
                     ],
                     "product_number_text": "2086140 2086138",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(240, 240, 230, 0.9), rgba(240, 240, 230, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#BFB7A6",
+                    "top_bg_hex_vision": "#F0F0E6",
+                    "top_bg_lum": 0.477,
+                    "top_bg_sat": 0.1309,
+                    "is_dark": false
                 },
                 {
-                    "main_copy": "편안한 일상\n이지웨어의 소장 가치",
+                    "main_copy": "편안함의 새로운 기준\n감탄의 이지웨어",
                     "main_copies": [
-                        "편안한 일상\n이지웨어의 소장 가치",
-                        "세탁에도 견고함\n매끈한 캡 내장형 원단",
-                        "외출복에도 완벽\n안정적 핏의 자유로움"
+                        "편안함의 새로운 기준\n감탄의 이지웨어",
+                        "품격 있는 실루엣\n소장 가치의 핏 완성",
+                        "매일의 자유로움\n내 몸에 맞춘 안락함"
                     ],
                     "hashtags": [
                         "#감탄브라",
+                        "#프리미엄언더웨어",
                         "#이지웨어"
                     ],
                     "image": "ai_comfort_easywear_3.jpg",
@@ -79,15 +74,13 @@ var aiDataAll = {
                         "2086138"
                     ],
                     "product_number_text": "2086140 2086138",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(229, 230, 225, 0.9), rgba(229, 230, 225, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#E5E6E1",
+                    "top_bg_hex_vision": "#E5E6E1",
+                    "top_bg_lum": 0.7869,
+                    "top_bg_sat": 0.0217,
+                    "is_dark": false
                 }
             ],
             "usp_class": "comfort"
@@ -95,15 +88,16 @@ var aiDataAll = {
         "특가_에어소프트": {
             "pairs": [
                 {
-                    "main_copy": "특가로 누리는 선택\n시즌 베스트 에어소프트",
+                    "main_copy": "부드러운 속삭임\n에어소프트의 자부심",
                     "main_copies": [
-                        "특가로 누리는 선택\n시즌 베스트 에어소프트",
-                        "실크 같은 착용감\n세탁 후에도 탄탄함",
-                        "변함없는 내구성\n자신감을 주는 언더웨어"
+                        "부드러운 속삭임\n에어소프트의 자부심",
+                        "특가로 만나는 품격\nF/W 베스트셀러의 가치",
+                        "품질에 반하는 순간\n변함없는 내구성의 실감"
                     ],
                     "hashtags": [
                         "#프리미엄언더웨어",
-                        "#감탄브라"
+                        "#견고한에어소프트",
+                        "#우아한자신감"
                     ],
                     "image": "ai_special-price_air-soft_1.jpg",
                     "product_codes": [
@@ -116,26 +110,25 @@ var aiDataAll = {
                         "2086030"
                     ],
                     "product_number_text": "2086045 2086046 2086025 2086026 2086027 2086029 2086030",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(208,209,207,0.92) 0%, rgba(208,209,207,0.78) 55%, rgba(208,209,207,0.0) 100%)",
+                    "text_color": "#1A1A1A",
+                    "top_bg_hex": "#D0D1CF",
+                    "top_bg_hex_vision": null,
+                    "top_bg_lum": 0.6352,
+                    "top_bg_sat": 0.0096,
+                    "is_dark": false
                 },
                 {
-                    "main_copy": "지금 바로 준비하세요\nF/W 베스트셀러",
+                    "main_copy": "변함없는 편안함\nF/W 베스트셀러",
                     "main_copies": [
-                        "지금 바로 준비하세요\nF/W 베스트셀러",
-                        "세탁 후에도 유지되는\n변함없는 에어소프트",
-                        "실크처럼 부드러운\n감탄브라의 소장 가치"
+                        "변함없는 편안함\nF/W 베스트셀러",
+                        "부드러움의 정수\n실크 같은 부드러움",
+                        "특가로 만나는 가치\n세탁 후에도 견고함"
                     ],
                     "hashtags": [
-                        "#감탄브라",
-                        "#프리미엄언더웨어"
+                        "#에어소프트",
+                        "#프리미엄언더웨어",
+                        "#감탄브라"
                     ],
                     "image": "ai_special-price_air-soft_2.jpg",
                     "product_codes": [
@@ -148,15 +141,13 @@ var aiDataAll = {
                         "2086030"
                     ],
                     "product_number_text": "2086045 2086046 2086025 2086026 2086027 2086029 2086030",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(225, 228, 227, 1), rgba(225, 228, 227, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#E1E4E3",
+                    "top_bg_hex_vision": "#E1E4E3",
+                    "top_bg_lum": 0.7704,
+                    "top_bg_sat": 0.0132,
+                    "is_dark": false
                 }
             ],
             "usp_class": "special-price"
@@ -164,15 +155,16 @@ var aiDataAll = {
         "특가_이지웨어": {
             "pairs": [
                 {
-                    "main_copy": "내 몸에 맞춘 듯\n완벽한 이지웨어",
+                    "main_copy": "특가로 만나는\n소장 가치 이지웨어",
                     "main_copies": [
-                        "내 몸에 맞춘 듯\n완벽한 이지웨어",
-                        "삶의 자유로움\n필링 없는 매끈함",
-                        "어디서나 완벽한 핏\n일상의 소장 가치"
+                        "특가로 만나는\n소장 가치 이지웨어",
+                        "세탁 후에도 그대로\n매끈함과 견고함",
+                        "외출복으로도 손색없는\n안정적인 지지핏"
                     ],
                     "hashtags": [
                         "#감탄브라",
-                        "#이제완벽한핏"
+                        "#이지웨어",
+                        "#프리미엄언더웨어"
                     ],
                     "image": "ai_special-price_easywear_1.jpg",
                     "product_codes": [
@@ -180,26 +172,25 @@ var aiDataAll = {
                         "2086138"
                     ],
                     "product_number_text": "2086140 2086138",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(220, 215, 206, 0.8), rgba(220, 215, 206, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#DCD7CE",
+                    "top_bg_hex_vision": "#DCD7CE",
+                    "top_bg_lum": 0.6827,
+                    "top_bg_sat": 0.0636,
+                    "is_dark": false
                 },
                 {
-                    "main_copy": "견고한 내구성\n캡 내장형 골지 원단",
+                    "main_copy": "찰떡같은 핏감\n외출복 이지웨어",
                     "main_copies": [
-                        "견고한 내구성\n캡 내장형 골지 원단",
-                        "소장 가치 극대화\n외출복으로도 완벽한 핏",
-                        "자유와 자신감의 촉감\n짧은 세탁 주기에도 매끈함"
+                        "찰떡같은 핏감\n외출복 이지웨어",
+                        "포근한 매끈함\n캡 내장형 원단의 품격",
+                        "손쉬운 관리\n잦은 세탁에도 견고함"
                     ],
                     "hashtags": [
+                        "#프리미엄언더웨어",
                         "#감탄브라",
-                        "#프리미엄언더웨어"
+                        "#자신감"
                     ],
                     "image": "ai_special-price_easywear_2.jpg",
                     "product_codes": [
@@ -207,28 +198,25 @@ var aiDataAll = {
                         "2086138"
                     ],
                     "product_number_text": "2086140 2086138",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(185, 186, 189, 0.85), rgba(185, 186, 189, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#B9BABD",
+                    "top_bg_hex_vision": "#B9BABD",
+                    "top_bg_lum": 0.4911,
+                    "top_bg_sat": 0.0212,
+                    "is_dark": false
                 },
                 {
-                    "main_copy": "캡 내장형의 안정감\n외출복으로도 손색없는 핏",
+                    "main_copy": "특별한 날엔 이지웨어\n외출복 같은 소장 가치",
                     "main_copies": [
-                        "캡 내장형의 안정감\n외출복으로도 손색없는 핏",
-                        "매끈한 착용의 자유\n보풀 없는 견고함과 자신감",
-                        "특가로 만나는 참새\n이지웨어의 소장 가치"
+                        "특별한 날엔 이지웨어\n외출복 같은 소장 가치",
+                        "자신감을 높이는 선택\n필링 방지, 매끈함",
+                        "편안함을 넘는 지원력\n캡 내장형 골지 원단"
                     ],
                     "hashtags": [
                         "#감탄브라",
                         "#프리미엄언더웨어",
-                        "#자신감",
-                        "#이지웨어"
+                        "#자신감있는하루"
                     ],
                     "image": "ai_special-price_easywear_3.jpg",
                     "product_codes": [
@@ -236,15 +224,13 @@ var aiDataAll = {
                         "2086138"
                     ],
                     "product_number_text": "2086140 2086138",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(147, 150, 146, 0.8), rgba(147, 150, 146, 0))",
+                    "text_color": "#FFFFFF",
+                    "top_bg_hex": "#939692",
+                    "top_bg_hex_vision": "#939692",
+                    "top_bg_lum": 0.3009,
+                    "top_bg_sat": 0.0267,
+                    "is_dark": true
                 }
             ],
             "usp_class": "special-price"
@@ -252,15 +238,16 @@ var aiDataAll = {
         "내구성_에어소프트": {
             "pairs": [
                 {
-                    "main_copy": "세탁 후에도 변함없는\n내구성의 에어소프트",
+                    "main_copy": "변함없는 탄탄함\n에어소프트의 소장 가치",
                     "main_copies": [
-                        "세탁 후에도 변함없는\n내구성의 에어소프트",
-                        "실크 같은 부드러움\n모두가 원하는 필링 방지",
-                        "견고함을 넘어서는\n자신감의 소장 가치"
+                        "변함없는 탄탄함\n에어소프트의 소장 가치",
+                        "실크 같은 편안함\n자연스러운 자신감 완성",
+                        "견고한 내구성\n에어소프트 F/W 베스트셀러"
                     ],
                     "hashtags": [
-                        "#프리미엄언더웨어",
-                        "#감탄브라"
+                        "#에어소프트",
+                        "#감탄브라",
+                        "#프리미엄언더웨어"
                     ],
                     "image": "ai_durability_air-soft_1.jpg",
                     "product_codes": [
@@ -273,26 +260,25 @@ var aiDataAll = {
                         "2086030"
                     ],
                     "product_number_text": "2086045 2086046 2086025 2086026 2086027 2086029 2086030",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(208, 209, 207, 1), rgba(208, 209, 207, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#D0D1CF",
+                    "top_bg_hex_vision": "#D0D1CF",
+                    "top_bg_lum": 0.6352,
+                    "top_bg_sat": 0.0096,
+                    "is_dark": false
                 },
                 {
-                    "main_copy": "세탁 후에도 변함없는\n탄탄한 내구성 에어소프트",
+                    "main_copy": "견고함의 새로운 기준\nF/W 베스트셀러",
                     "main_copies": [
-                        "세탁 후에도 변함없는\n탄탄한 내구성 에어소프트",
-                        "실크 같은 부드러움\n자신감의 시작 에어소프트",
-                        "견고한 내구성으로\n평생 소장 가치 에어소프트"
+                        "견고함의 새로운 기준\nF/W 베스트셀러",
+                        "부드러움에 품격을 더하다\n에어소프트 내구성",
+                        "시간이 흘러도 변함없는\n실크 같은 견고함"
                     ],
                     "hashtags": [
                         "#프리미엄언더웨어",
-                        "#감탄브라"
+                        "#감탄브라",
+                        "#에어소프트"
                     ],
                     "image": "ai_durability_air-soft_2.jpg",
                     "product_codes": [
@@ -305,15 +291,13 @@ var aiDataAll = {
                         "2086030"
                     ],
                     "product_number_text": "2086045 2086046 2086025 2086026 2086027 2086029 2086030",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(225, 228, 227, 0.9), rgba(225, 228, 227, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#E1E4E3",
+                    "top_bg_hex_vision": "#E1E4E3",
+                    "top_bg_lum": 0.7704,
+                    "top_bg_sat": 0.0132,
+                    "is_dark": false
                 }
             ],
             "usp_class": "durability"
@@ -321,18 +305,16 @@ var aiDataAll = {
         "내구성_이지웨어": {
             "pairs": [
                 {
-                    "main_copy": "이유 있는 선택\n프리미엄의 매끈함",
+                    "main_copy": "견고한 내구성\n일상 속 소장 가치",
                     "main_copies": [
-                        "이유 있는 선택\n프리미엄의 매끈함",
-                        "변함없는 아름다움\n감탄을 부르는 지지",
-                        "외출의 품격\n안정적인 내구성"
+                        "견고한 내구성\n일상 속 소장 가치",
+                        "매끈한 고급 원단\n외출복으로도 손색없음",
+                        "안정적인 지원\n자유로움과 자신감"
                     ],
                     "hashtags": [
                         "#감탄브라",
-                        "#이지웨어",
                         "#프리미엄언더웨어",
-                        "#내구성",
-                        "#자신감충전"
+                        "#이지웨어"
                     ],
                     "image": "ai_durability_easywear_1.jpg",
                     "product_codes": [
@@ -340,26 +322,25 @@ var aiDataAll = {
                         "2086138"
                     ],
                     "product_number_text": "2086140 2086138",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(234, 230, 220, 0.8), rgba(234, 230, 220, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#EAE6DC",
+                    "top_bg_hex_vision": "#EAE6DC",
+                    "top_bg_lum": 0.7925,
+                    "top_bg_sat": 0.0598,
+                    "is_dark": false
                 },
                 {
-                    "main_copy": "일상의 편안함\n소장 가치 이지웨어",
+                    "main_copy": "보풀 걱정 없는 원단\n매일 입는 프리미엄 이지웨어",
                     "main_copies": [
-                        "일상의 편안함\n소장 가치 이지웨어",
-                        "보풀 없는 부드러움\n견고한 내구성의 완성",
-                        "외출복도 완벽하게\n안정적인 지지의 미학"
+                        "보풀 걱정 없는 원단\n매일 입는 프리미엄 이지웨어",
+                        "언제나 견고하게\n완벽한 외출복 그 이상",
+                        "자신감을 품다\n안정적이며 매끈한 핏"
                     ],
                     "hashtags": [
                         "#감탄브라",
-                        "#프리미엄언더웨어"
+                        "#프리미엄언더웨어",
+                        "#자신감있는일상"
                     ],
                     "image": "ai_durability_easywear_2.jpg",
                     "product_codes": [
@@ -367,28 +348,25 @@ var aiDataAll = {
                         "2086138"
                     ],
                     "product_number_text": "2086140 2086138",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(202, 206, 208, 0.8), rgba(255, 255, 255, 0))",
+                    "text_color": "#333333",
+                    "top_bg_hex": "#CACED0",
+                    "top_bg_hex_vision": "#CACED0",
+                    "top_bg_lum": 0.6125,
+                    "top_bg_sat": 0.0288,
+                    "is_dark": false
                 },
                 {
-                    "main_copy": "캡 내장형 골지 원단\n소장 가치 있는 매끈함",
+                    "main_copy": "내구성의 신뢰\n견고한 소장 가치",
                     "main_copies": [
-                        "캡 내장형 골지 원단\n소장 가치 있는 매끈함",
-                        "흐트러짐 없는 핏\n안정적인 외출복 완성",
-                        "잦은 세탁에도 강한\n견고한 내구성의 자부심"
+                        "내구성의 신뢰\n견고한 소장 가치",
+                        "보풀 없는 매끈함\n필링 방지 혁신",
+                        "자신감의 실루엣\n안정적인 지지 업그레이드"
                     ],
                     "hashtags": [
                         "#감탄브라",
-                        "#내구성",
-                        "#이지웨어",
-                        "#자신감"
+                        "#탄탄한내구성",
+                        "#이지웨어"
                     ],
                     "image": "ai_durability_easywear_3.jpg",
                     "product_codes": [
@@ -396,15 +374,13 @@ var aiDataAll = {
                         "2086138"
                     ],
                     "product_number_text": "2086140 2086138",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.6) 40%, rgba(255,255,255,0.0) 100%)",
-                    "text_pos": {
-                        "top_pct": 3.0,
-                        "left_pct": 0,
-                        "right_pct": 0,
-                        "bottom_pct": null,
-                        "max_width_pct": 100
-                    },
-                    "has_person": false
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(224,223,224,0.92) 0%, rgba(224,223,224,0.78) 55%, rgba(224,223,224,0.0) 100%)",
+                    "text_color": "#1A1A1A",
+                    "top_bg_hex": "#E0DFE0",
+                    "top_bg_hex_vision": null,
+                    "top_bg_lum": 0.74,
+                    "top_bg_sat": 0.0045,
+                    "is_dark": false
                 }
             ],
             "usp_class": "durability"
