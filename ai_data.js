@@ -1,20 +1,20 @@
 var aiDataAll = {
-    "version": "202602271735",
-    "updated_at": "2026-02-27 17:37:23",
+    "version": "202602271744",
+    "updated_at": "2026-02-27 17:45:49",
     "data": {
         "편안함_이지웨어": {
             "pairs": [
                 {
-                    "main_copy": "흉통 조임 없는 감각적 핏\n캡 내장형 노브라 이지웨어",
+                    "main_copy": "외출복으로도 손색없어요\n캡 내장형 노브라 이지웨어",
                     "main_copies": [
-                        "흉통 조임 없는 감각적 핏\n캡 내장형 노브라 이지웨어",
-                        "외출에도 우아하게\n편안한 골지 캡 내장형",
-                        "자유로운 일상을 위한\n보풀 없는 매끈한 이지웨어"
+                        "외출복으로도 손색없어요\n캡 내장형 노브라 이지웨어",
+                        "골지 원단의 매끈함\n흉통 조임 없는 편안함",
+                        "잦은 세탁에도 변형 없음\n캡 내장형 노브라 이지웨어"
                     ],
                     "hashtags": [
-                        "#편안한브라",
-                        "#이지웨어",
-                        "#캡내장형"
+                        "#편안함",
+                        "#노브라이지웨어",
+                        "#프리미엄언더웨어"
                     ],
                     "image": "ai_comfort_easywear_1.jpg",
                     "product_codes": [
@@ -25,7 +25,7 @@ var aiDataAll = {
                         "2086137"
                     ],
                     "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(218, 219, 213, 0.85), rgba(218, 219, 213, 0))",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(218, 219, 213, 0.8), rgba(218, 219, 213, 0))",
                     "text_color": "#333333",
                     "top_bg_hex": "#DADBD5",
                     "top_bg_hex_vision": "#DADBD5",
@@ -37,16 +37,16 @@ var aiDataAll = {
                     "bg_std": 47.669
                 },
                 {
-                    "main_copy": "하루 종일 안 입은듯\n노브라 이지웨어의 편안함",
+                    "main_copy": "노출 걱정 없는 핏\n캡 내장형 이지웨어",
                     "main_copies": [
-                        "하루 종일 안 입은듯\n노브라 이지웨어의 편안함",
-                        "외출복으로 어울리는 핏\n세련된 노브라 이지웨어",
-                        "자주 입고 세탁해도\n매끈한 골지 원단 특유의 편안함"
+                        "노출 걱정 없는 핏\n캡 내장형 이지웨어",
+                        "단정하고 깔끔한 라인\n캡 내장형 이지웨어",
+                        "편안한 외출복 대체\n캡 내장형 이지웨어"
                     ],
                     "hashtags": [
-                        "#감탄브라",
-                        "#편안한착용감",
-                        "#이지웨어"
+                        "#이지웨어",
+                        "#캡내장형",
+                        "#편안한핏"
                     ],
                     "image": "ai_comfort_easywear_2.jpg",
                     "product_codes": [
@@ -57,7 +57,7 @@ var aiDataAll = {
                         "2086137"
                     ],
                     "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(212, 204, 195, 1), rgba(212, 204, 195, 0))",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(212, 204, 195, 0.8), rgba(212, 204, 195, 0.0))",
                     "text_color": "#333333",
                     "top_bg_hex": "#D4CCC3",
                     "top_bg_hex_vision": "#D4CCC3",
@@ -69,15 +69,15 @@ var aiDataAll = {
                     "bg_std": 10.143
                 },
                 {
-                    "main_copy": "뛰어난 캡 내장 설계\n노브라같은 자유로움",
+                    "main_copy": "외출복으로도 손색없어요\n캡 내장형 노브라 이지웨어",
                     "main_copies": [
-                        "뛰어난 캡 내장 설계\n노브라같은 자유로움",
-                        "입은 듯 안 입은 듯\n자유로운 노브라 일상",
-                        "외출도 자연스러운 핏\n안 입은듯한 편안함"
+                        "외출복으로도 손색없어요\n캡 내장형 노브라 이지웨어",
+                        "잦은 세탁에도 보풀 없음\n안 입은듯 편안한 이지웨어",
+                        "골지 원단의 부드러움\n흉통 조임 없는 자유로움"
                     ],
                     "hashtags": [
                         "#캡내장형",
-                        "#노브라핏",
+                        "#노브라이지웨어",
                         "#편안한착용감"
                     ],
                     "image": "ai_comfort_easywear_3.jpg",
@@ -89,10 +89,10 @@ var aiDataAll = {
                         "2086137"
                     ],
                     "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(89, 86, 82, 1), rgba(89, 86, 82, 0))",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(90, 87, 73, 0.8), rgba(90, 87, 73, 0))",
                     "text_color": "#FFFFFF",
                     "top_bg_hex": "#5A5749",
-                    "top_bg_hex_vision": "#595652",
+                    "top_bg_hex_vision": "#5A5749",
                     "top_bg_lum": 0.0947,
                     "top_bg_sat": 0.1889,
                     "is_dark": true,
@@ -113,9 +113,9 @@ var aiDataAll = {
                         "오직 이 링크에서만\n손예진 Pick 에어소프트 특가"
                     ],
                     "hashtags": [
-                        "#에어소프트특가",
-                        "#손예진픽",
-                        "#프리미엄언더웨어"
+                        "#감탄브라",
+                        "#프리미엄언더웨어",
+                        "#특가이벤트"
                     ],
                     "image": "ai_special-price_air-soft_1.jpg",
                     "product_codes": [
@@ -126,7 +126,7 @@ var aiDataAll = {
                         "2085704"
                     ],
                     "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(180deg, rgba(222, 214, 205, 0.85), rgba(222, 214, 205, 0))",
+                    "text_gradient_css": "linear-gradient(180deg, rgba(222, 214, 205, 1) 0%, rgba(222, 214, 205, 0) 100%)",
                     "text_color": "#333333",
                     "top_bg_hex": "#DED6CD",
                     "top_bg_hex_vision": "#DED6CD",
@@ -141,13 +141,13 @@ var aiDataAll = {
                     "main_copy": "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
                     "main_copies": [
                         "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
-                        "이 링크만의 특가\n손예진 Pick 에어소프트",
-                        "여기서만 누리는 특가\n손예진 Pick 에어소프트"
+                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
+                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가"
                     ],
                     "hashtags": [
                         "#에어소프트",
-                        "#특가",
-                        "#프리미엄언더웨어"
+                        "#프리미엄언더웨어",
+                        "#특가"
                     ],
                     "image": "ai_special-price_air-soft_2.jpg",
                     "product_codes": [
@@ -158,10 +158,10 @@ var aiDataAll = {
                         "2085704"
                     ],
                     "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(228, 232, 232, 1) 0%, rgba(228, 232, 232, 0) 100%)",
-                    "text_color": "#333333",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(231,235,235,0.92) 0%, rgba(218,222,220,0.78) 55%, rgba(214,217,215,0.06) 100%)",
+                    "text_color": "#1A1A1A",
                     "top_bg_hex": "#E4E8E8",
-                    "top_bg_hex_vision": "#E4E8E8",
+                    "top_bg_hex_vision": null,
                     "top_bg_lum": 0.8003,
                     "top_bg_sat": 0.0172,
                     "is_dark": false,
@@ -179,7 +179,7 @@ var aiDataAll = {
                     "hashtags": [
                         "#에어소프트",
                         "#특가",
-                        "#손예진추천"
+                        "#손예진픽"
                     ],
                     "image": "ai_special-price_air-soft_3.jpg",
                     "product_codes": [
@@ -190,7 +190,7 @@ var aiDataAll = {
                         "2085704"
                     ],
                     "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(169, 171, 164, 0.9), rgba(169, 171, 164, 0))",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(169, 171, 164, 1), rgba(169, 171, 164, 0))",
                     "text_color": "#333333",
                     "top_bg_hex": "#A9ABA4",
                     "top_bg_hex_vision": "#A9ABA4",
@@ -207,16 +207,16 @@ var aiDataAll = {
         "내구성_에어소프트": {
             "pairs": [
                 {
-                    "main_copy": "세탁 후에도 변함없어요\n견고한 에어소프트 내구성",
+                    "main_copy": "세탁 후에도 언제나\n변형 없는 견고한 내구성",
                     "main_copies": [
-                        "세탁 후에도 변함없어요\n견고한 에어소프트 내구성",
-                        "꾸준히 사랑받는 품질\n변형 없는 F/W 베스트셀러",
-                        "세탁기에도 강합니다\n탄탄한 실크 같은 내구성"
+                        "세탁 후에도 언제나\n변형 없는 견고한 내구성",
+                        "변함없는 탄탄함\n세탁 후에도 변형 없음",
+                        "부드러움 그대로\n탄탄한 내구성 자랑"
                     ],
                     "hashtags": [
-                        "#에어소프트",
                         "#내구성",
-                        "#FW베스트셀러"
+                        "#에어소프트",
+                        "#프리미엄언더웨어"
                     ],
                     "image": "ai_durability_air-soft_1.jpg",
                     "product_codes": [
@@ -228,7 +228,7 @@ var aiDataAll = {
                     ],
                     "product_number_text": "2085696 2085698 2085694 2085706 2085704",
                     "text_gradient_css": "linear-gradient(to bottom, rgba(219, 220, 215, 0.9), rgba(219, 220, 215, 0))",
-                    "text_color": "#333333",
+                    "text_color": "#000000",
                     "top_bg_hex": "#DBDCD7",
                     "top_bg_hex_vision": "#DBDCD7",
                     "top_bg_lum": 0.7115,
@@ -239,16 +239,16 @@ var aiDataAll = {
                     "bg_std": 6.062
                 },
                 {
-                    "main_copy": "세탁 후에도 변함없어요\nF/W 베스트셀러 내구성",
+                    "main_copy": "세탁 후에도 그대로\n튼튼한 에어소프트 내구성",
                     "main_copies": [
-                        "세탁 후에도 변함없어요\nF/W 베스트셀러 내구성",
-                        "실크 같은 부드러움\n변함없는 에어소프트 내구성",
-                        "흉통 조임 없이 편안해요\n견고한 에어소프트 내구성"
+                        "세탁 후에도 그대로\n튼튼한 에어소프트 내구성",
+                        "매번 새 것 같은 느낌\n탄탄한 내구성의 에어소프트",
+                        "여러 번 착용해도 변함없음\n견고한 에어소프트 내구성"
                     ],
                     "hashtags": [
                         "#내구성",
                         "#에어소프트",
-                        "#FW베스트셀러"
+                        "#프리미엄언더웨어"
                     ],
                     "image": "ai_durability_air-soft_2.jpg",
                     "product_codes": [
@@ -259,7 +259,7 @@ var aiDataAll = {
                         "2085704"
                     ],
                     "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(218, 213, 202, 0.9), rgba(218, 213, 202, 0))",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(218, 213, 202, 0.9), rgba(218, 213, 202, 0.1))",
                     "text_color": "#333333",
                     "top_bg_hex": "#DAD5CA",
                     "top_bg_hex_vision": "#DAD5CA",
@@ -271,16 +271,16 @@ var aiDataAll = {
                     "bg_std": 18.631
                 },
                 {
-                    "main_copy": "다시 입어도 새것처럼\n변형 없는 완벽한 내구성",
+                    "main_copy": "세탁 후에도 그대로\n변함없는 견고한 내구성",
                     "main_copies": [
-                        "다시 입어도 새것처럼\n변형 없는 완벽한 내구성",
-                        "세탁 후에도 그대로\n불변의 에어소프트 내구성",
-                        "자주 입어도 질리지 않는\n지속성의 에어소프트 내구성"
+                        "세탁 후에도 그대로\n변함없는 견고한 내구성",
+                        "자주 입어도 새것처럼\n변형 없는 내구성의 힘",
+                        "세심한 세탁이 필요 없는\n탄탄한 내구성의 에어소프트"
                     ],
                     "hashtags": [
-                        "#내구성",
-                        "#에어소프트",
-                        "#FW베스트셀러"
+                        "#변하지않는완벽함",
+                        "#에어소프트내구성",
+                        "#프리미엄언더웨어"
                     ],
                     "image": "ai_durability_air-soft_3.jpg",
                     "product_codes": [
@@ -291,10 +291,10 @@ var aiDataAll = {
                         "2085704"
                     ],
                     "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(214, 216, 213, 0.9), rgba(214, 216, 213, 0))",
-                    "text_color": "#333333",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(219,221,218,0.92) 0%, rgba(210,212,209,0.78) 55%, rgba(208,210,207,0.06) 100%)",
+                    "text_color": "#1A1A1A",
                     "top_bg_hex": "#D6D8D5",
-                    "top_bg_hex_vision": "#D6D8D5",
+                    "top_bg_hex_vision": null,
                     "top_bg_lum": 0.6821,
                     "top_bg_sat": 0.0139,
                     "is_dark": false,
@@ -308,16 +308,16 @@ var aiDataAll = {
         "내구성_이지웨어": {
             "pairs": [
                 {
-                    "main_copy": "세탁 후에도 변함없어요\n변형 없는 착용감과 매끈함",
+                    "main_copy": "세탁기 팍팍 돌려도\n보풀 없이 유지되는 매끈함",
                     "main_copies": [
-                        "세탁 후에도 변함없어요\n변형 없는 착용감과 매끈함",
-                        "캡 내장형의 확실함\n보풀 없는 견고한 이지웨어",
-                        "외출복으로도 손색없어요\n견고한 내구성의 이지웨어"
+                        "세탁기 팍팍 돌려도\n보풀 없이 유지되는 매끈함",
+                        "자주 세탁해도 문제없어요\n견고한 캡 내장형 디자인",
+                        "잦은 세탁에도 변형 없이\n늘어짐 없는 골지 원단"
                     ],
                     "hashtags": [
+                        "#이지웨어",
                         "#내구성",
-                        "#캡내장형",
-                        "#골지원단"
+                        "#캡내장형"
                     ],
                     "image": "ai_durability_easywear_1.jpg",
                     "product_codes": [
@@ -328,7 +328,7 @@ var aiDataAll = {
                         "2086137"
                     ],
                     "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(rgba(195, 186, 168, 0.85), rgba(195, 186, 168, 0))",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(195, 186, 168, 0.8), rgba(195, 186, 168, 0))",
                     "text_color": "#333333",
                     "top_bg_hex": "#C3BAA8",
                     "top_bg_hex_vision": "#C3BAA8",
@@ -340,16 +340,16 @@ var aiDataAll = {
                     "bg_std": 26.604
                 },
                 {
-                    "main_copy": "세탁 후에도 매끈함\n보풀 없이 깔끔한 내구성",
+                    "main_copy": "세탁기 돌려도 매끈함\n잦은 세탁 후에도 견고함",
                     "main_copies": [
-                        "세탁 후에도 매끈함\n보풀 없이 깔끔한 내구성",
-                        "잦은 세탁에도 변형 없음\n흉통 조임 없는 탄탄함",
-                        "외출복으로 손색없는 핏\n날마다 새 옷 같은 내구성"
+                        "세탁기 돌려도 매끈함\n잦은 세탁 후에도 견고함",
+                        "변형 없이 깔끔한 핏\n늘어짐 없는 이지웨어",
+                        "보풀 없이 외출 가능\n내구성 갖춘 노브라 이지웨어"
                     ],
                     "hashtags": [
                         "#이지웨어",
-                        "#프리미엄언더웨어",
-                        "#내구성좋은브라"
+                        "#내구성",
+                        "#캡내장형"
                     ],
                     "image": "ai_durability_easywear_2.jpg",
                     "product_codes": [
@@ -360,7 +360,7 @@ var aiDataAll = {
                         "2086137"
                     ],
                     "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(89, 58, 23, 1), rgba(89, 58, 23, 0))",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(89, 58, 23, 0.8), rgba(89, 58, 23, 0))",
                     "text_color": "#FFFFFF",
                     "top_bg_hex": "#593A17",
                     "top_bg_hex_vision": "#593A17",
@@ -372,16 +372,16 @@ var aiDataAll = {
                     "bg_std": 8.144
                 },
                 {
-                    "main_copy": "세탁기 팍팍 돌려도\n늘어짐 없는 탄탄함",
+                    "main_copy": "세탁해도 매끈함 유지\n내구성 뛰어난 이지웨어",
                     "main_copies": [
-                        "세탁기 팍팍 돌려도\n늘어짐 없는 탄탄함",
-                        "보풀 없는 매끈함\n변형 없는 내구성",
-                        "자주 입어도 깔끔한\n튼튼한 골지 원단"
+                        "세탁해도 매끈함 유지\n내구성 뛰어난 이지웨어",
+                        "외출복으로도 손색없어요\n견고한 캡 내장 이지웨어",
+                        "캡 내장형으로 모양 유지\n변형 없는 이지웨어"
                     ],
                     "hashtags": [
-                        "#이지웨어",
                         "#내구성",
-                        "#캡내장형"
+                        "#이지웨어",
+                        "#편안한핏"
                     ],
                     "image": "ai_durability_easywear_3.jpg",
                     "product_codes": [
@@ -392,8 +392,8 @@ var aiDataAll = {
                         "2086137"
                     ],
                     "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(203,198,181,1), rgba(203,198,181,0))",
-                    "text_color": "#000000",
+                    "text_gradient_css": "linear-gradient(to bottom, rgba(203, 198, 181, 0.8), rgba(203, 198, 181, 0))",
+                    "text_color": "#333333",
                     "top_bg_hex": "#CBC6B5",
                     "top_bg_hex_vision": "#CBC6B5",
                     "top_bg_lum": 0.5642,
