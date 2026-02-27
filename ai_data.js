@@ -44,9 +44,9 @@ var aiDataAll = {
                         "집에서도 외출에서도\n편안함 담은 홈웨어"
                     ],
                     "hashtags": [
-                        "#노브라편안함",
-                        "#이지웨어핏",
-                        "#감탄브라"
+                        "#노브라 편안함",
+                        "#이지웨어 핏",
+                        "#손예진 Pick"
                     ],
                     "image": "ai_comfort_easywear_2.jpg",
                     "product_codes": [
@@ -77,8 +77,8 @@ var aiDataAll = {
                     ],
                     "hashtags": [
                         "#이지웨어",
-                        "#캡내장형",
-                        "#노브라핑"
+                        "#캡 내장형",
+                        "#노브라웨어"
                     ],
                     "image": "ai_comfort_easywear_3.jpg",
                     "product_codes": [
@@ -114,8 +114,8 @@ var aiDataAll = {
                     ],
                     "hashtags": [
                         "#에어소프트",
-                        "#특가",
-                        "#프리미엄언더웨어"
+                        "#손예진 Pick",
+                        "#프리미엄 언더웨어"
                     ],
                     "image": "ai_special-price_air-soft_1.jpg",
                     "product_codes": [
@@ -146,8 +146,8 @@ var aiDataAll = {
                     ],
                     "hashtags": [
                         "#에어소프트",
-                        "#손예진픽",
-                        "#프리미엄언더웨어"
+                        "#손예진 Pick",
+                        "#프리미엄 언더웨어"
                     ],
                     "image": "ai_special-price_air-soft_2.jpg",
                     "product_codes": [
@@ -178,8 +178,8 @@ var aiDataAll = {
                     ],
                     "hashtags": [
                         "#에어소프트",
-                        "#특가",
-                        "#손예진픽"
+                        "#탄탄한 내구성",
+                        "#S/S 베스트셀러"
                     ],
                     "image": "ai_special-price_air-soft_3.jpg",
                     "product_codes": [
@@ -215,8 +215,8 @@ var aiDataAll = {
                     ],
                     "hashtags": [
                         "#에어소프트",
-                        "#내구성",
-                        "#프리미엄언더웨어"
+                        "#탄탄한 내구성",
+                        "#손예진 Pick"
                     ],
                     "image": "ai_durability_air-soft_1.jpg",
                     "product_codes": [
@@ -243,12 +243,12 @@ var aiDataAll = {
                     "main_copies": [
                         "세탁에도 견고하게\n변형 없는 에어소프트",
                         "탁월한 세탁 내구성\n탄탄한 에어소프트 소재",
-                        "공기처럼 가벼움\n흉통 조임 없는 내구성"
+                        "공기처럼 가벼움\n업그레이드 된 내구성"
                     ],
                     "hashtags": [
                         "#베스트셀러",
                         "#에어소프트",
-                        "#탄탄한내구성"
+                        "#탄탄한 내구성"
                     ],
                     "image": "ai_durability_air-soft_2.jpg",
                     "product_codes": [
@@ -279,8 +279,8 @@ var aiDataAll = {
                     ],
                     "hashtags": [
                         "#에어소프트",
-                        "#프리미엄내구성",
-                        "#견고함"
+                        "#탄탄한 내구성",
+                        "#산뜻 쾌적"
                     ],
                     "image": "ai_durability_air-soft_3.jpg",
                     "product_codes": [
@@ -315,9 +315,9 @@ var aiDataAll = {
                         "꾸준한 세탁에도 걱정 없는\n내구성 있는 이지웨어"
                     ],
                     "hashtags": [
-                        "#프리미엄언더웨어",
-                        "#캡내장형",
-                        "#지속가능패션"
+                        "#손예진 Pick",
+                        "#캡 내장형",
+                        "#베스트셀러"
                     ],
                     "image": "ai_durability_easywear_1.jpg",
                     "product_codes": [
@@ -381,7 +381,7 @@ var aiDataAll = {
                     "hashtags": [
                         "#이지웨어",
                         "#내구성",
-                        "#캡내장형"
+                        "#캡 내장형"
                     ],
                     "image": "ai_durability_easywear_3.jpg",
                     "product_codes": [
