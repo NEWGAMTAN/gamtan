@@ -1,6 +1,6 @@
 var aiDataAll = {
     "version": "202602271808",
-    "updated_at": "2026-02-27 18:09:37",
+    "updated_at": "2026-02-27 18:19:37",
     "data": {
         "편안함_이지웨어": {
             "pairs": [
