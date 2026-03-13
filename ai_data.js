@@ -1,104 +1,50 @@
 var aiDataAll = {
-    "version": "202602271808",
-    "updated_at": "2026-02-27 18:19:37",
+    "version": "202603121646",
+    "updated_at": "2026-03-12 16:46:37",
     "data": {
         "편안함_이지웨어": {
             "pairs": [
                 {
-                    "main_copy": "브라와 티셔츠 합체\n캡 내장형 노브라웨어",
+                    "main_copy": "브라와 이지웨어를 하나로\n캡 내장형 노브라 이지웨어",
                     "main_copies": [
-                        "브라와 티셔츠 합체\n캡 내장형 노브라웨어",
-                        "안 입은듯 자연스러운\n캡 내장 이지웨어",
-                        "외출에도 편안한\n홈웨어 이상의 핏"
+                        "브라와 이지웨어를 하나로\n캡 내장형 노브라 이지웨어",
+                        "편안함과 스타일을 동시에\n외출복으로도 가능한 홈웨어",
+                        "자주 입어도 변형 없어요!\n보풀 없이 탄탄한 이지웨어"
                     ],
                     "hashtags": [
-                        "#캡내장형",
-                        "#이지웨어",
-                        "#편안함"
-                    ],
-                    "image": "ai_comfort_easywear_1.jpg",
-                    "product_codes": [
-                        "2086138",
-                        "2086140",
-                        "2086141",
-                        "2086136",
-                        "2086137"
-                    ],
-                    "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(218, 219, 213, 0.8), rgba(218, 219, 213, 0))",
-                    "text_color": "#333333",
-                    "top_bg_hex": "#DADBD5",
-                    "top_bg_hex_vision": "#DADBD5",
-                    "top_bg_lum": 0.7037,
-                    "top_bg_sat": 0.0274,
-                    "is_dark": false,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 47.669
-                },
-                {
-                    "main_copy": "캡 내장으로 더 편안하게\n흉통 조임 없는 이지웨어",
-                    "main_copies": [
-                        "캡 내장으로 더 편안하게\n흉통 조임 없는 이지웨어",
-                        "외출도 문제없는 핏\n안 입은 듯한 노브라웨어",
-                        "집에서도 외출해서도\n편안한 노브라 홈웨어"
-                    ],
-                    "hashtags": [
-                        "#노브라 편안함",
-                        "#이지웨어 핏",
-                        "#손예진 Pick"
-                    ],
-                    "image": "ai_comfort_easywear_2.jpg",
-                    "product_codes": [
-                        "2086138",
-                        "2086140",
-                        "2086141",
-                        "2086136",
-                        "2086137"
-                    ],
-                    "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(212, 204, 195, 0.9), rgba(212, 204, 195, 0))",
-                    "text_color": "#333333",
-                    "top_bg_hex": "#D4CCC3",
-                    "top_bg_hex_vision": "#D4CCC3",
-                    "top_bg_lum": 0.6112,
-                    "top_bg_sat": 0.0802,
-                    "is_dark": false,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 10.143
-                },
-                {
-                    "main_copy": "브라의 자유로움\n캡 내장형 노브라 이지웨어",
-                    "main_copies": [
-                        "브라의 자유로움\n캡 내장형 노브라 이지웨어",
-                        "노브라의 편안함\n브라 없이 완벽한 핏",
-                        "집에서도 멋스럽게\n품격 있는 노브라웨어"
-                    ],
-                    "hashtags": [
-                        "#이지웨어",
                         "#캡 내장형",
+                        "#편안한 일상",
                         "#노브라웨어"
                     ],
-                    "image": "ai_comfort_easywear_3.jpg",
-                    "product_codes": [
-                        "2086138",
-                        "2086140",
-                        "2086141",
-                        "2086136",
-                        "2086137"
+                    "image": "ai_comfort_easywear_1.jpg"
+                },
+                {
+                    "main_copy": "브라와 이지웨어를 하나로\n캡 내장형 노브라 이지웨어",
+                    "main_copies": [
+                        "브라와 이지웨어를 하나로\n캡 내장형 노브라 이지웨어",
+                        "집에서도 밖에서도\n홈웨어 이상의 완벽한 핏",
+                        "세탁해도 변형 없는 탄탄함\n잦은 세탁에 강한 이지웨어"
                     ],
-                    "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(225, 220, 210, 1) 0%, rgba(225, 220, 210, 0) 100%)",
-                    "text_color": "#222222",
-                    "top_bg_hex": "#5A5749",
-                    "top_bg_hex_vision": "#E1DCD2",
-                    "top_bg_lum": 0.0947,
-                    "top_bg_sat": 0.1889,
-                    "is_dark": true,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 11.183
+                    "hashtags": [
+                        "#캡 내장형",
+                        "#편안함",
+                        "#홈웨어"
+                    ],
+                    "image": "ai_comfort_easywear_2.jpg"
+                },
+                {
+                    "main_copy": "브라와 이지웨어를 하나로\n캡 내장형 노브라 이지웨어",
+                    "main_copies": [
+                        "브라와 이지웨어를 하나로\n캡 내장형 노브라 이지웨어",
+                        "홈웨어의 새로운 기준\n안 입은듯한 편안함",
+                        "브라 없이도 완벽한 라인\n외출복으로도 손색없는 핏"
+                    ],
+                    "hashtags": [
+                        "#캡 내장형",
+                        "#노브라웨어",
+                        "#이지웨어"
+                    ],
+                    "image": "ai_comfort_easywear_3.jpg"
                 }
             ],
             "usp_class": "comfort"
@@ -106,100 +52,89 @@ var aiDataAll = {
         "특가_에어소프트": {
             "pairs": [
                 {
-                    "main_copy": "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
+                    "main_copy": "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가",
                     "main_copies": [
-                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
-                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
-                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가"
+                        "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가",
+                        "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가",
+                        "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가"
                     ],
                     "hashtags": [
-                        "#에어소프트",
-                        "#손예진 Pick",
-                        "#프리미엄 언더웨어"
+                        "#베스트셀러",
+                        "#완벽한 내구성",
+                        "#손예진 착용"
                     ],
-                    "image": "ai_special-price_air-soft_1.jpg",
-                    "product_codes": [
-                        "2085696",
-                        "2085698",
-                        "2085694",
-                        "2085706",
-                        "2085704"
-                    ],
-                    "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(222, 214, 205, 0.8), rgba(222, 214, 205, 0))",
-                    "text_color": "#333333",
-                    "top_bg_hex": "#DED6CD",
-                    "top_bg_hex_vision": "#DED6CD",
-                    "top_bg_lum": 0.6803,
-                    "top_bg_sat": 0.0766,
-                    "is_dark": false,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 17.192
+                    "image": "ai_special-price_air-soft_1.jpg"
                 },
                 {
-                    "main_copy": "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
+                    "main_copy": "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가",
                     "main_copies": [
-                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
-                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
-                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가"
+                        "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가",
+                        "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가",
+                        "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가"
                     ],
                     "hashtags": [
                         "#에어소프트",
-                        "#손예진 Pick",
-                        "#프리미엄 언더웨어"
+                        "#쾌적함",
+                        "#손예진 추천"
                     ],
-                    "image": "ai_special-price_air-soft_2.jpg",
-                    "product_codes": [
-                        "2085696",
-                        "2085698",
-                        "2085694",
-                        "2085706",
-                        "2085704"
-                    ],
-                    "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(228, 232, 232, 0.8), rgba(228, 232, 232, 0))",
-                    "text_color": "#333333",
-                    "top_bg_hex": "#E4E8E8",
-                    "top_bg_hex_vision": "#E4E8E8",
-                    "top_bg_lum": 0.8003,
-                    "top_bg_sat": 0.0172,
-                    "is_dark": false,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 9.352
+                    "image": "ai_special-price_air-soft_2.jpg"
                 },
                 {
-                    "main_copy": "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
+                    "main_copy": "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가",
                     "main_copies": [
-                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
-                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가",
-                        "오직 이 링크에서만\n손예진 Pick 에어소프트 특가"
+                        "오직 이 링크에서만!\n손예진 Pick 에어소프트 특가",
+                        "손예진 추천\n특가로 만나는 에어소프트",
+                        "가벼움과 편안함을 그대로\n에어소프트 베스트셀러 특가"
                     ],
                     "hashtags": [
-                        "#에어소프트",
-                        "#탄탄한 내구성",
-                        "#S/S 베스트셀러"
+                        "#손예진 Pick",
+                        "#특가",
+                        "#에어소프트"
                     ],
-                    "image": "ai_special-price_air-soft_3.jpg",
-                    "product_codes": [
-                        "2085696",
-                        "2085698",
-                        "2085694",
-                        "2085706",
-                        "2085704"
+                    "image": "ai_special-price_air-soft_3.jpg"
+                }
+            ],
+            "usp_class": "special-price"
+        },
+        "특가_오리지널": {
+            "pairs": [
+                {
+                    "main_copy": "오직 이 링크에서만\n손예진 Pick 자세브라 특가",
+                    "main_copies": [
+                        "오직 이 링크에서만\n손예진 Pick 자세브라 특가",
+                        "오직 이 링크에서만\n손예진 Pick 자세브라 특가",
+                        "오직 이 링크에서만\n손예진 Pick 자세브라 특가"
                     ],
-                    "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(136, 140, 128, 0.9), rgba(136, 140, 128, 0))",
-                    "text_color": "#333333",
-                    "top_bg_hex": "#A9ABA4",
-                    "top_bg_hex_vision": "#888C80",
-                    "top_bg_lum": 0.4024,
-                    "top_bg_sat": 0.0409,
-                    "is_dark": false,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 27.103
+                    "hashtags": [
+                        "#자세 교정",
+                        "#체형 보정",
+                        "#바른자세 습관"
+                    ],
+                    "image": "ai_special-price_original_1.jpg"
+                },
+                {
+                    "main_copy": "오직 이 링크에서만!\n손예진 Pick 자세브라 특가",
+                    "main_copies": [
+                        "오직 이 링크에서만!\n손예진 Pick 자세브라 특가",
+                        "오직 이 링크에서만!\n손예진 Pick 자세브라 특가",
+                        "오직 이 링크에서만!\n손예진 Pick 자세브라 특가"
+                    ],
+                    "hashtags": [
+                        "#자세 교정",
+                        "#완벽한 체형 보정"
+                    ],
+                    "image": "ai_special-price_original_2.jpg"
+                },
+                {
+                    "main_copy": "오직 이 링크에서만!\n손예진 Pick 자세브라 특가",
+                    "main_copies": [
+                        "오직 이 링크에서만!\n손예진 Pick 자세브라 특가"
+                    ],
+                    "hashtags": [
+                        "#자세 교정",
+                        "#완벽한 체형 보정"
+                    ],
+                    "image": "ai_special-price_original_3.jpg"
                 }
             ],
             "usp_class": "special-price"
@@ -207,100 +142,46 @@ var aiDataAll = {
         "내구성_에어소프트": {
             "pairs": [
                 {
-                    "main_copy": "세탁 후에도 변함없는\n변형 없는 견고한 내구성",
+                    "main_copy": "세탁해도 변함없는\n공기처럼 가벼운 내구성",
                     "main_copies": [
-                        "세탁 후에도 변함없는\n변형 없는 견고한 내구성",
-                        "강력한 세탁기에도 끄떡없음\n탄탄한 에어소프트 내구성",
-                        "베스트셀러의 이유\n견고한 내구성 보장"
-                    ],
-                    "hashtags": [
-                        "#에어소프트",
-                        "#탄탄한 내구성",
-                        "#손예진 Pick"
-                    ],
-                    "image": "ai_durability_air-soft_1.jpg",
-                    "product_codes": [
-                        "2085696",
-                        "2085698",
-                        "2085694",
-                        "2085706",
-                        "2085704"
-                    ],
-                    "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(235, 235, 230, 0.9), rgba(235, 235, 230, 0))",
-                    "text_color": "#333333",
-                    "top_bg_hex": "#DBDCD7",
-                    "top_bg_hex_vision": "#EBEBE6",
-                    "top_bg_lum": 0.7115,
-                    "top_bg_sat": 0.0227,
-                    "is_dark": false,
-                    "is_studio_cut": true,
-                    "veil_mode": "off",
-                    "bg_std": 6.062
-                },
-                {
-                    "main_copy": "세탁에도 견고하게\n변형 없는 에어소프트",
-                    "main_copies": [
-                        "세탁에도 견고하게\n변형 없는 에어소프트",
-                        "탁월한 세탁 내구성\n탄탄한 에어소프트 소재",
-                        "공기처럼 가벼움\n업그레이드 된 내구성"
+                        "세탁해도 변형 없어요!\n공기처럼 가벼운 착용감",
+                        "매일 세탁해도 새 것처럼\n에어소프트의 탄탄한 내구성",
+                        "날마다 새 것처럼\n견고한 에어소프트 내구성"
                     ],
                     "hashtags": [
                         "#베스트셀러",
-                        "#에어소프트",
-                        "#탄탄한 내구성"
+                        "#변형없는 내구성",
+                        "#가벼운 착용감"
                     ],
-                    "image": "ai_durability_air-soft_2.jpg",
-                    "product_codes": [
-                        "2085696",
-                        "2085698",
-                        "2085694",
-                        "2085706",
-                        "2085704"
-                    ],
-                    "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(218, 213, 202, 0.85), rgba(218, 213, 202, 0))",
-                    "text_color": "#333333",
-                    "top_bg_hex": "#DAD5CA",
-                    "top_bg_hex_vision": "#DAD5CA",
-                    "top_bg_lum": 0.6676,
-                    "top_bg_sat": 0.0734,
-                    "is_dark": false,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 18.631
+                    "image": "ai_durability_air-soft_1.jpg"
                 },
                 {
-                    "main_copy": "세탁 후에도 형상 유지\n변함없는 에어소프트 내구성",
+                    "main_copy": "세탁 후에도 여전한\n변형 없는 강력 내구성",
                     "main_copies": [
-                        "세탁 후에도 형상 유지\n변함없는 에어소프트 내구성",
-                        "세탁 후에도 멀쩡! \n공기처럼 가벼운 에어소프트",
-                        "탁월한 내구성의 비밀\n계속 입고 싶은 에어소프트"
+                        "세탁 후에도 멀쩡해요\n변형 없이 강력한 내구성",
+                        "매일 입어도 새 것처럼\n변형 없는 견고함",
+                        "부드럽고 가벼운 착용감\n세탁 후에도 탄탄함 유지"
                     ],
                     "hashtags": [
-                        "#에어소프트",
+                        "#베스트셀러",
                         "#탄탄한 내구성",
-                        "#산뜻 쾌적"
+                        "#가벼운 착용감"
                     ],
-                    "image": "ai_durability_air-soft_3.jpg",
-                    "product_codes": [
-                        "2085696",
-                        "2085698",
-                        "2085694",
-                        "2085706",
-                        "2085704"
+                    "image": "ai_durability_air-soft_2.jpg"
+                },
+                {
+                    "main_copy": "오래 입어도 새 것처럼\n변형 없이 견고한 내구성",
+                    "main_copies": [
+                        "오래 입어도 새 것 같이\n변형 없이 견고한 내구성",
+                        "잦은 세탁에도 변형 없어요\n탄탄한 내구성의 에어소프트",
+                        "자주 입어도 변함 없는\n베스트셀러 에어소프트"
                     ],
-                    "product_number_text": "2085696 2085698 2085694 2085706 2085704",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(214, 216, 213, 1) 0%, rgba(214, 216, 213, 0) 100%)",
-                    "text_color": "#333333",
-                    "top_bg_hex": "#D6D8D5",
-                    "top_bg_hex_vision": "#D6D8D5",
-                    "top_bg_lum": 0.6821,
-                    "top_bg_sat": 0.0139,
-                    "is_dark": false,
-                    "is_studio_cut": true,
-                    "veil_mode": "off",
-                    "bg_std": 3.017
+                    "hashtags": [
+                        "#내구성",
+                        "#가벼운 편안함",
+                        "#베스트셀러"
+                    ],
+                    "image": "ai_durability_air-soft_3.jpg"
                 }
             ],
             "usp_class": "durability"
@@ -308,119 +189,189 @@ var aiDataAll = {
         "내구성_이지웨어": {
             "pairs": [
                 {
-                    "main_copy": "세탁에도 변형 없는\n탄탄한 캡 내장형",
+                    "main_copy": "세탁기 팍팍 돌려도\n보풀 없이 탄탄한 내구성",
                     "main_copies": [
-                        "세탁에도 변형 없는\n탄탄한 캡 내장형",
-                        "많이 입어도 변함없는\n견고한 노브라웨어",
-                        "꾸준한 세탁에도 걱정 없는\n내구성 있는 이지웨어"
+                        "세탁기 팍팍 돌려도\n보풀 없이 탄탄한 내구성",
+                        "외출복으로도 손색 없는\n노브라웨어의 탄탄함",
+                        "홈웨어부터 외출복까지\n변형 없는 이지웨어"
                     ],
                     "hashtags": [
-                        "#손예진 Pick",
                         "#캡 내장형",
-                        "#베스트셀러"
+                        "#탄탄한 노브라웨어",
+                        "#홈웨어+외출복"
                     ],
-                    "image": "ai_durability_easywear_1.jpg",
-                    "product_codes": [
-                        "2086138",
-                        "2086140",
-                        "2086141",
-                        "2086136",
-                        "2086137"
-                    ],
-                    "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(246, 245, 230, 0.9), rgba(246, 245, 230, 0))",
-                    "text_color": "#333333",
-                    "top_bg_hex": "#C3BAA8",
-                    "top_bg_hex_vision": "#F6F5E6",
-                    "top_bg_lum": 0.4955,
-                    "top_bg_sat": 0.1385,
-                    "is_dark": false,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 26.604
+                    "image": "ai_durability_easywear_1.jpg"
                 },
                 {
-                    "main_copy": "세탁기 돌려도 안심\n보풀 없는 이지웨어 탄탄함",
+                    "main_copy": "세탁기 팍팍 돌려도\n보풀 없는 탄탄함",
                     "main_copies": [
-                        "세탁기 돌려도 안심\n보풀 없는 이지웨어 탄탄함",
-                        "자주 빨아도 변함없는 핏\n우수한 내구성의 노브라웨어",
-                        "외출복처럼 입는 편안함\n캡 내장형 이지웨어"
+                        "세탁기 팍팍 돌려도\n보풀 없는 탄탄함",
+                        "집에서도 밖에서도\n늘어짐 없는 핏 감각",
+                        "캡 내장형 이지웨어\n매일 편안한 착용감"
                     ],
                     "hashtags": [
-                        "#이지웨어",
                         "#내구성",
-                        "#노브라웨어"
+                        "#이지웨어",
+                        "#편안함"
                     ],
-                    "image": "ai_durability_easywear_2.jpg",
-                    "product_codes": [
-                        "2086138",
-                        "2086140",
-                        "2086141",
-                        "2086136",
-                        "2086137"
-                    ],
-                    "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(89, 58, 23, 1) 0%, rgba(89, 58, 23, 0) 100%)",
-                    "text_color": "#FFFFFF",
-                    "top_bg_hex": "#593A17",
-                    "top_bg_hex_vision": "#593A17",
-                    "top_bg_lum": 0.0521,
-                    "top_bg_sat": 0.7416,
-                    "is_dark": true,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 8.144
+                    "image": "ai_durability_easywear_2.jpg"
                 },
                 {
-                    "main_copy": "세탁기 돌려도 변형 없음\n흉통 조임 없는 노브라웨어",
+                    "main_copy": "외출복으로도 손색없어요\n캡 내장형 노브라 이지웨어",
                     "main_copies": [
-                        "세탁기 돌려도 변형 없음\n흉통 조임 없는 노브라웨어",
-                        "자주 세탁해도 늘어짐 없음\n캡 내장형 이지웨어",
-                        "어떤 세탁에도 견고함\n보풀 없는 탄탄한 핏"
+                        "외출복으로도 손색없어요\n캡 내장형 노브라 이지웨어",
+                        "홈웨어로도 완벽해요\n노브라웨어의 탄탄함"
                     ],
                     "hashtags": [
-                        "#이지웨어",
-                        "#내구성",
-                        "#캡 내장형"
+                        "#캡 내장형",
+                        "#탄탄한 핏",
+                        "#보풀없는 내구성"
                     ],
-                    "image": "ai_durability_easywear_3.jpg",
-                    "product_codes": [
-                        "2086138",
-                        "2086140",
-                        "2086141",
-                        "2086136",
-                        "2086137"
-                    ],
-                    "product_number_text": "2086138 2086140 2086141 2086136 2086137",
-                    "text_gradient_css": "linear-gradient(to bottom, rgba(209,205,190,0.92) 0%, rgba(195,192,179,0.78) 55%, rgba(192,190,178,0.06) 100%)",
-                    "text_color": "#1A1A1A",
-                    "top_bg_hex": "#CBC6B5",
-                    "top_bg_hex_vision": null,
-                    "top_bg_lum": 0.5642,
-                    "top_bg_sat": 0.1084,
-                    "is_dark": false,
-                    "is_studio_cut": false,
-                    "veil_mode": "auto",
-                    "bg_std": 40.739
+                    "image": "ai_durability_easywear_3.jpg"
                 }
             ],
             "usp_class": "durability"
+        },
+        "보정력_오리지널": {
+            "pairs": [
+                {
+                    "main_copy": "편안함과 자세 교정을 한 번에\n군살 없이 바른 자세",
+                    "main_copies": [
+                        "편안함과 자세 교정을 한 번에\n군살 없는 바른 자세",
+                        "자세 교정의 새로운 시작\nX핏 기술력으로 바른 자세 습관",
+                        "자세브라 하나면 끝\n등과 어깨를 펴주는 X핏"
+                    ],
+                    "hashtags": [
+                        "#자세 교정",
+                        "#직각 어깨",
+                        "#군살 보정"
+                    ],
+                    "image": "ai_shaping_original_1.jpg"
+                },
+                {
+                    "main_copy": "몸에 부드럽게 착 붙어\n직각 어깨 자부심",
+                    "main_copies": [
+                        "몸을 부드럽게 당겨주니까\n직각 어깨 만들어줘요",
+                        "어깨를 쫘악 펴주는\n자세브라만의 X핏 보정",
+                        "바른 자세 습관 완성\n매끈하게 군살 정리"
+                    ],
+                    "hashtags": [
+                        "#자세교정",
+                        "#완벽한 체형보정",
+                        "#직각 어깨"
+                    ],
+                    "image": "ai_shaping_original_2.jpg"
+                },
+                {
+                    "main_copy": "등 어깨를 당겨주는 X핏\n정교한 자세 교정",
+                    "main_copies": [
+                        "등 어깨를 당겨주는 X핏\n정교한 자세 교정",
+                        "군살 없이 슬림하게\n완벽한 상체 라인 완성",
+                        "자세 교정의 기본\n자세브라 하나로 바른 습관"
+                    ],
+                    "hashtags": [
+                        "#자세 교정",
+                        "#완벽한 체형보정",
+                        "#직각 어깨"
+                    ],
+                    "image": "ai_shaping_original_3.jpg"
+                }
+            ],
+            "usp_class": "shaping"
+        },
+        "보정력_에어스윙": {
+            "pairs": [
+                {
+                    "main_copy": "흐트러짐 없는 안정감\n스포츠 브라의 새로운 차원",
+                    "main_copies": [
+                        "흐트러짐 없는 안정감\n스포츠 브라의 새로운 차원",
+                        "프로가 선택한 기술력\n군살 없이 매끈한 실루엣",
+                        "스윙에도 흔들림 없어요\n완벽한 인체공학적 설계"
+                    ],
+                    "hashtags": [
+                        "#흐트러짐 없는 지지력",
+                        "#프로의 선택",
+                        "#매끈한 실루엣"
+                    ],
+                    "image": "ai_shaping_air-swing_1.jpg"
+                },
+                {
+                    "main_copy": "흔들림 없는 안정감\n프로 선수가 직접 만든 기능성 브라",
+                    "main_copies": [
+                        "흔들림 없는 안정감\n프로 선수가 직접 만든 기능성 브라",
+                        "KLPGA 공식 파트너\n감탄만의 인체공학적 설계",
+                        "군살을 깔끔하게 정리해줘요!\n매끄러운 실루엣 완성"
+                    ],
+                    "hashtags": [
+                        "#프로의 선택",
+                        "#흐트러짐 없는 스윙",
+                        "#매끄러운 실루엣"
+                    ],
+                    "image": "ai_shaping_air-swing_2.jpg"
+                },
+                {
+                    "main_copy": "스윙에도 흔들림 없어요\n프로 선수 검증 기능성 브라",
+                    "main_copies": [
+                        "스윙에도 흔들림 없어요\n프로 선수 검증 기능성 브라",
+                        "스포츠브라 대용으로 완벽!\n군살+부유방까지 정리",
+                        "인체공학적 설계로 완성된\n흐트러짐 없는 매끈함"
+                    ],
+                    "hashtags": [
+                        "#프로의 선택",
+                        "#흐트러짐 없는 스윙",
+                        "#매끈한 실루엣"
+                    ],
+                    "image": "ai_shaping_air-swing_3.jpg"
+                }
+            ],
+            "usp_class": "shaping"
+        },
+        "스포츠_에어스윙": {
+            "pairs": [
+                {
+                    "main_copy": "골프, 필라테스, 헬스\n흔들림 없이 내 몸에 밀착",
+                    "main_copies": [
+                        "골프, 필라테스, 헬스\n흔들림 없이 내 몸에 밀착",
+                        "모든 격한 스포츠에도 OK\n프로가 인증한 안 입은듯한 편안함",
+                        "모든 움직임을 완벽하게!\n흐트러짐 없는 스포츠브라"
+                    ],
+                    "hashtags": [
+                        "#프로의 선택",
+                        "#흐트러짐 없는 편안함",
+                        "#KLPGA 공식파트너"
+                    ],
+                    "image": "ai_sport_air-swing_1.jpg"
+                },
+                {
+                    "main_copy": "프로 선수의 선택\n흔들림 없는 기능성 브라",
+                    "main_copies": [
+                        "프로 선수의 선택\n흔들림 없는 기능성 브라",
+                        "풀스윙에도 안심\n들썩임 없는 기능성 브라",
+                        "인체공학적 설계\n흐트러짐 없는 스포츠브라"
+                    ],
+                    "hashtags": [
+                        "#흐트러짐 없는 스윙",
+                        "#매끈한 실루엣",
+                        "#프로의 선택"
+                    ],
+                    "image": "ai_sport_air-swing_2.jpg"
+                },
+                {
+                    "main_copy": "풀스윙 OK\n흐트러짐 없는 스윙",
+                    "main_copies": [
+                        "풀스윙 OK\n흐트러짐 없는 골프 전문 브라",
+                        "KLPGA 프로의 선택\n기능성 스포츠 브라",
+                        "완벽하게 군살을 정리해줘요!\n매끈한 상체라인 완성"
+                    ],
+                    "hashtags": [
+                        "#프로의 선택",
+                        "#흐트러짐 없는 스윙",
+                        "#완벽한 실루엣"
+                    ],
+                    "image": "ai_sport_air-swing_3.jpg"
+                }
+            ],
+            "usp_class": "sport"
         }
-    },
-    "product_db": {
-        "에어소프트": [
-            "2085696",
-            "2085698",
-            "2085694",
-            "2085706",
-            "2085704"
-        ],
-        "이지웨어": [
-            "2086138",
-            "2086140",
-            "2086141",
-            "2086136",
-            "2086137"
-        ]
     }
 };
